@@ -31,3 +31,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marcelino-carvalho/marcelino-carvalho/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/marcelino-carvalho/marcelino-carvalho/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
